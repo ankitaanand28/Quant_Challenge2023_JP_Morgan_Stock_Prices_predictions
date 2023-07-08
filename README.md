@@ -10,5 +10,10 @@ I was provided with train and test datasets separately containing simulated stoc
 
 <img width="668" alt="image" src="https://github.com/ankitaanand28/Quant_Challenge2023_JP_Morgan_Stock_Prices_predictions/assets/95133586/2ba59660-f880-4f96-9a40-b19d32bf2828">
 
+<h3> Overall results </h3>
+
+<img width="668" alt="image" src="https://github.com/ankitaanand28/Quant_Challenge2023_JP_Morgan_Stock_Prices_predictions/assets/95133586/f08c0940-78c1-4e6b-8ecf-8d0416a085c0">
+
+
 
 
