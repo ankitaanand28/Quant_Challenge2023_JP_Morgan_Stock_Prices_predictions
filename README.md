@@ -6,9 +6,7 @@ I was provided with train and test datasets separately containing simulated stoc
 
 ![image](https://github.com/ankitaanand28/Quant_Challenge2023_JP_Morgan_Stock_Prices_predictions/assets/95133586/f0e59fca-52bb-4a74-9f34-b183c3c918ee)
 
-<h3> Here is the slide providing performance of Ensembling models</h3>
 
-<img width="668" alt="image" src="https://github.com/ankitaanand28/Quant_Challenge2023_JP_Morgan_Stock_Prices_predictions/assets/95133586/2ba59660-f880-4f96-9a40-b19d32bf2828">
 <h3> RMSE Scores of Predicted Prices by average of Ensemble Models</h3>
  <li> RMSE of all stock prices prediction by ensemble models : 9.18163</li>
  <li> Average of RMSE of predicted prices of each stock : 7.583634</li>
